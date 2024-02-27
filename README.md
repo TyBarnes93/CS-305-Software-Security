@@ -17,7 +17,7 @@
   - In order to ensure the code and application was functional and secure, I had to check run a lot, as well as run dependency checks. Refactoring code, I check run the project to see if there were any new vulnerabilities.
 
 6. What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
-  -The most helpful resource utilized would be viewing projects in the web browser in eclipse.
+  - The most helpful resource utilized would be viewing projects in the web browser in eclipse.
    
 7. Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
   - One assignment I would showcase would be my Vulnerability Assessment Report, to show my understanding of how to find and understand the information being given.
